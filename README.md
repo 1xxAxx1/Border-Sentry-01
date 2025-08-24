@@ -17,7 +17,6 @@ This project uses a **phone (IP Webcam app)** as the camera and a **laptop** run
 -  Real-time object detection using **YOLOv8**  
 -  Virtual boundary line crossing detection  
 -  Alerts when line is crossed (visual + console log)  
--  (Optional) Add sound siren or cloud logging dashboard
 
 ---
 
